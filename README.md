@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ghanisthsinghal@gmail.com**
 
-- 📄 My [Resume]([https://drive.google.com/file/d/1iQlBOVm24vSvviWNooTDgGXpc2e9zubd/view?usp=sharing](https://drive.google.com/file/d/18dBIL2VQ6WOKrzpi7kT1JhHpHgTTsilK/view?usp=sharing))
+- 📄 My [Resume]([https://drive.google.com/file/d/18dBIL2VQ6WOKrzpi7kT1JhHpHgTTsilK/view?usp=drive_link])
 
 
 <h3 align="left">Connect with me:</h3>
