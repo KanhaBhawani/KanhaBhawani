@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachetvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sachetvijay" /> </p>
 
-- 🔭 I’m currently learning to build [Smart Security System]([https://github.com/londonappbrewery/flash-chat-flutter](https://github.com/KanhaBhawani/Face-Detection-using-Smart-Surveillance-Camera))
+- 🔭 I’m currently learning to build [Smart Security System](https://github.com/KanhaBhawani/Face-Detection-using-Smart-Surveillance-Camera)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ghanisthsinghal@gmail.com**
 
-- 📄 My [Resume]([https://drive.google.com/file/d/18dBIL2VQ6WOKrzpi7kT1JhHpHgTTsilK/view?usp=drive_link])
+- 📄 My [Resume](https://drive.google.com/file/d/18dBIL2VQ6WOKrzpi7kT1JhHpHgTTsilK/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
