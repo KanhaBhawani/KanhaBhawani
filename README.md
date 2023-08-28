@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **MERN PROJECT**
 
 - 📫 How to reach me **ghanisthsinghal@gmail.com**
 
